@@ -21,3 +21,5 @@
     "0": "female",
     "1": "male"
 
+- 训练好的权重文件：链接：https://pan.baidu.com/s/1Ju_tXeiTHwW3u73MVX2E9w?pwd=hwmt
+
